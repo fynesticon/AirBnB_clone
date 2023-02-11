@@ -132,4 +132,4 @@ To all the peers that contribuited with their knowledge
 
 ### Authors :fountain_pen:
 * Ekomobong Cletus Etim - @fynesticon
-* Jamaal Okhuosami - @
+* Jamaal Okhuosami - @Qaadaffi
